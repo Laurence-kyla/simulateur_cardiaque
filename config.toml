@@ -1,0 +1,3 @@
+# The waves background is designed for a light page, so the theme stays light even in dark mode
+[theme]
+base = "light"
